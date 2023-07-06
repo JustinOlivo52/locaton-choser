@@ -1,0 +1,29 @@
+img {
+  border-radius: 5%;
+  max-height: 300px;
+}
+
+html {
+  background-image: url('cute-cartoon-boba-milk-tea.jpg'); 
+  /* background-position: right 45% bottom 70%; */
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: auto;
+  padding: auto;
+}
+
+button {
+  border-radius: 10%;
+  background-color: lightgreen;
+  font-family: fantasy;
+}
+
+h1 {
+  font-family: 'Rubik', sans-serif;
+}
+
+#description {
+  color: ;
+}
+
+
